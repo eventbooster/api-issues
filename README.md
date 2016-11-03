@@ -9,8 +9,8 @@ Siehe die [Issues](/../../issues).
 ## Dokumentation
 
 - RESTful:
-  docs.eventdata.apiary.io
+  [docs.eventdata.apiary.io](docs.eventdata.apiary.io)
 - File-based API:
-  docs.eventdatafileapi.apiary.io
+  [docs.eventdatafileapi.apiary.io](docs.eventdatafileapi.apiary.io)
   
 URLs und Zugangscodes (Access Tokens) können Sie anfordern per [Mail](mailto:api@eventbooster.ch).
