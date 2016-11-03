@@ -4,7 +4,7 @@ Das Repository für alle Issues rund um die RESTful und File-based Eventbooster 
 
 ## Issues
 
-Siehe die [Issues](/issues).
+Siehe die [Issues](/../../issues).
 
 ## Dokumentation
 
