@@ -1,16 +1,20 @@
-# api-issues
+# Evendata API
 
-Das Repository für alle Issues rund um die RESTful und File-based Eventbooster API. 
+The home of the changelog  & the issues of the Eventdata API
+
+## Changelog
+
+See [Releases](https://github.com/eventbooster/api-issues/releases)
 
 ## Issues
 
-Siehe die [Issues](/../../issues).
+See [Issues](/../../issues).
 
-## Dokumentation
+## Documentation
 
 - RESTful:
   [docs.eventdata.apiary.io](http://docs.eventdata.apiary.io/)
 - File-based API:
   [docs.eventdatafileapi.apiary.io](http://docs.eventdatafileapi.apiary.io/)
-  
-URLs und Zugangscodes (Access Tokens) können Sie anfordern per [Mail](mailto:api@eventbooster.ch).
+
+To get access to the APIs you need an access-token. Request one [via mail](mailto:api@eventbooster.ch)
